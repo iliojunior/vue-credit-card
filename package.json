@@ -1,6 +1,6 @@
 {
   "name": "vuetify-credit-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue.js wrapper for credit card https://github.com/jessepollak/card with vuetify example and pugjs and stylus.",
   "author": "Ilio Adriano de Oliveira Junior <ilioadriano@live.com>",
   "keywords": [
